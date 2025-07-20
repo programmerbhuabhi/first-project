@@ -1,2 +1,2 @@
 # first-project
-Clone of Spotify
+Clone of Spotify.
